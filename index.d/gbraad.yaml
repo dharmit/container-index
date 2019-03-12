@@ -7,7 +7,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: me@gbraad.nl
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on:
       - centos/centos:7

@@ -7,6 +7,6 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: kbsingh/openshift-nginx:latest

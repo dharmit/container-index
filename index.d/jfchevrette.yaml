@@ -7,7 +7,7 @@ Projects:
     git-path: origin-clients/3.9
     target-file: Dockerfile
     desired-tag: 3.9
-    notify-email: jfchevrette@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -19,6 +19,6 @@ Projects:
     git-path: origin-clients/3.7
     target-file: Dockerfile
     desired-tag: 3.7
-    notify-email: jfchevrette@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7

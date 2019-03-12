@@ -9,6 +9,6 @@ Projects:
     prebuild-script: cccp-prebuild.sh
     prebuild-context: caddy_server/centos7
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null

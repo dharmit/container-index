@@ -7,7 +7,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -19,7 +19,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: 8
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: 
       - centos/centos:latest
@@ -33,7 +33,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -45,7 +45,7 @@ Projects:
     git-path: server
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: 
       - jboss/base-jdk:8
@@ -59,7 +59,7 @@ Projects:
         #    git-path: server-ha-postgres
         #    target-file: Dockerfile
         #    desired-tag: latest
-        #    notify-email: mohammed.zee1000@gmail.com
+        #    notify-email: shahdharmit@gmail.com
         #    build-context: ./
         #    depends-on: 
         #      - centos/centos:latest
@@ -73,7 +73,7 @@ Projects:
     git-path: adapter-wildfly
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on:
       - centos/centos:latest
@@ -87,6 +87,6 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: 10.0.0.Final
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest

@@ -6,7 +6,7 @@ Projects:
     git-path    : starter-arbitrary-uid
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7
@@ -18,7 +18,7 @@ Projects:
     git-path    : starter-epel
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7
@@ -30,7 +30,7 @@ Projects:
     git-path    : starter
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7
@@ -42,7 +42,7 @@ Projects:
     git-path    : starter-systemd
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7
@@ -54,7 +54,7 @@ Projects:
     git-path    : starter-systemd
     git-branch  : master
     target-file : Dockerfile.arbuid.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : arbuid
     build-context: ./
     depends-on  : centos/centos:7
@@ -66,7 +66,7 @@ Projects:
     git-path    : starter-nsswrapper
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7
@@ -78,7 +78,7 @@ Projects:
     git-path    : starter-api
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7

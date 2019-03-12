@@ -7,7 +7,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: bamachrn@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null
 
@@ -21,7 +21,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: centos7
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null
 
@@ -33,7 +33,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: centos6
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null
 
@@ -47,7 +47,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: 7.2.1511
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null
 
@@ -59,7 +59,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: 7
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null
 
@@ -71,6 +71,6 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: 6
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null

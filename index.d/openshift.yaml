@@ -8,7 +8,7 @@ Projects:
 #    git-path    : images/source
 #    git-branch  : 3.9_origin-source_cccp_yaml
 #    target-file : Dockerfile.pipeline
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : centos/centos:latest
@@ -20,7 +20,7 @@ Projects:
 #    git-path    : images/base
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -33,7 +33,7 @@ Projects:
 #    git-path    : images/cluster-capacity
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -46,7 +46,7 @@ Projects:
 #    git-path    : images/service-catalog
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -59,7 +59,7 @@ Projects:
 #    git-path    : images/template-service-broker
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -72,7 +72,7 @@ Projects:
 #    git-path    : images/builder/docker/custom-docker-builder/
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -86,7 +86,7 @@ Projects:
 #    git-path    : images/pod
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -99,7 +99,7 @@ Projects:
 #    git-path    : images/origin
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -112,7 +112,7 @@ Projects:
 #    git-path    : images/egress/http-proxy
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -125,7 +125,7 @@ Projects:
 #    git-path    : images/egress/router
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -138,7 +138,7 @@ Projects:
 #    git-path    : images/node
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -151,7 +151,7 @@ Projects:
 #    git-path    : images/deployer
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -164,7 +164,7 @@ Projects:
 #    git-path    : images/builder/docker/docker-builder
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -177,7 +177,7 @@ Projects:
 #    git-path    : images/builder/docker/sti-builder
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -190,7 +190,7 @@ Projects:
 #    git-path    : images/ipfailover/keepalived
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -203,7 +203,7 @@ Projects:
 #    git-path    : images/recycler
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -216,7 +216,7 @@ Projects:
 #    git-path    : images/router/haproxy
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -229,7 +229,7 @@ Projects:
 #    git-path    : images/router/nginx
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -242,7 +242,7 @@ Projects:
 #    git-path    : images/router/f5
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -255,7 +255,7 @@ Projects:
 #    git-path    : images/openvswitch
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : latest
 #    build-context: ./
 #    depends-on  : 
@@ -269,7 +269,7 @@ Projects:
 #    git-path    : images/source
 #    git-branch  : 3.9_origin-source_cccp_yaml
 #    target-file : Dockerfile.pipeline
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : centos/centos:latest
@@ -281,7 +281,7 @@ Projects:
 #    git-path    : images/base
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -294,7 +294,7 @@ Projects:
 #    git-path    : images/cluster-capacity
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -307,7 +307,7 @@ Projects:
 #    git-path    : images/service-catalog
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -320,7 +320,7 @@ Projects:
 #    git-path    : images/template-service-broker
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -333,7 +333,7 @@ Projects:
 #    git-path    : images/builder/docker/custom-docker-builder/
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -347,7 +347,7 @@ Projects:
 #    git-path    : images/pod
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -360,7 +360,7 @@ Projects:
 #    git-path    : images/origin
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -373,7 +373,7 @@ Projects:
 #    git-path    : images/egress/http-proxy
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -386,7 +386,7 @@ Projects:
 #    git-path    : images/egress/router
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -399,7 +399,7 @@ Projects:
 #    git-path    : images/node
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -412,7 +412,7 @@ Projects:
 #    git-path    : images/deployer
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -425,7 +425,7 @@ Projects:
 #    git-path    : images/builder/docker/docker-builder
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -438,7 +438,7 @@ Projects:
 #    git-path    : images/builder/docker/sti-builder
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -451,7 +451,7 @@ Projects:
 #    git-path    : images/ipfailover/keepalived
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -464,7 +464,7 @@ Projects:
 #    git-path    : images/recycler
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -477,7 +477,7 @@ Projects:
 #    git-path    : images/router/haproxy
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -490,7 +490,7 @@ Projects:
 #    git-path    : images/router/nginx
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -503,7 +503,7 @@ Projects:
 #    git-path    : images/router/f5
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -516,7 +516,7 @@ Projects:
 #    git-path    : images/openvswitch
 #    git-branch  : release-3.9
 #    target-file : Dockerfile
-#    notify-email: mohammed.zee1000@gmail.com
+#    notify-email: shahdharmit@gmail.com
 #    desired-tag : v3.9
 #    build-context: ./
 #    depends-on  : 
@@ -532,7 +532,7 @@ Projects:
     git-path: 2/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -544,7 +544,7 @@ Projects:
     git-path: slave-base/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -558,7 +558,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: aweiteka@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on:
         - centos/centos:latest
@@ -572,6 +572,6 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: efreiber@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7

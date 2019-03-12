@@ -7,6 +7,6 @@ Projects:
     git-path: daemon
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: dmick@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null

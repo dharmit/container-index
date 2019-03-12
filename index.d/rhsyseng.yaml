@@ -6,7 +6,7 @@ Projects:
     git-path    : /
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7
@@ -17,7 +17,7 @@ Projects:
     git-path    : /
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7
@@ -28,7 +28,7 @@ Projects:
     git-path    : /
     git-branch  : 6.2.x
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : 6.2.1
     build-context: ./
     depends-on  : centos/centos:7
@@ -39,7 +39,7 @@ Projects:
     git-path    : /
     git-branch  : 6.1.x
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : 6.1.2
     build-context: ./
     depends-on  : centos/centos:7
@@ -50,7 +50,7 @@ Projects:
     git-path    : /
     git-branch  : 5.x
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : 5.5.2
     build-context: ./
     depends-on  : centos/centos:7
@@ -61,7 +61,7 @@ Projects:
     git-path    : /
     git-branch  : master
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : latest
     build-context: ./
     depends-on  : centos/centos:7
@@ -72,7 +72,7 @@ Projects:
     git-path    : /
     git-branch  : 6.2.x
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : 6.2.1
     build-context: ./
     depends-on  : centos/centos:7
@@ -83,7 +83,7 @@ Projects:
     git-path    : /
     git-branch  : 6.1.x
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : 6.1.2
     build-context: ./
     depends-on  : centos/centos:7
@@ -94,7 +94,7 @@ Projects:
     git-path    : /
     git-branch  : 5.x
     target-file : Dockerfile.centos7
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     desired-tag : 5.6.10
     build-context: ./
     depends-on  : centos/centos:7

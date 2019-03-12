@@ -7,7 +7,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: ttomecek@redhat.com
+    notify-email: shahdharmit@gmail.com
     depends-on: centos/centos:latest
     build-context: ./
     prebuild-script: hooks/pre_build_centos

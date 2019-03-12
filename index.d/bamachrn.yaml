@@ -8,7 +8,7 @@ Projects:
     git-path: demo
     target-file: Dockerfile.demo
     desired-tag: release
-    notify-email: bamachrn@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 

@@ -7,6 +7,6 @@ Projects:
     git-path: images/janusgraph/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: goern@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null

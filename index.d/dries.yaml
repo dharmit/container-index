@@ -7,7 +7,7 @@ Projects:
     git-path: /template-test
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: dries.verachtert@dries.eu
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -19,6 +19,6 @@ Projects:
     git-path: /beanstalkd
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: dries.verachtert@dries.eu
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest

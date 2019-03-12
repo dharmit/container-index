@@ -13,7 +13,7 @@ Projects:
     git-path: git_path
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: youremail@example.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: null
 

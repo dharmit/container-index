@@ -7,7 +7,7 @@ Projects:
     git-path: CentOS/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: humble.devassy@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   - id: 2
@@ -18,7 +18,7 @@ Projects:
     git-path: extras/docker/centos
     target-file: Dockerfile.testing
     desired-tag: testing
-    notify-email: heketi-devel@gluster.org
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     prebuild-script: ./prepare-build.sh
     prebuild-context: extras/docker/centos
@@ -31,7 +31,7 @@ Projects:
     git-path: extras/docker/centos
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: heketi-devel@gluster.org
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     prebuild-script: ./prepare-build.sh
     prebuild-context: extras/docker/centos

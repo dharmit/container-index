@@ -7,7 +7,7 @@ Projects:
     git-path: 9.6/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -19,7 +19,7 @@ Projects:
     git-path: 10/
     target-file: Dockerfile.testing
     desired-tag: 10-beta
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -31,7 +31,7 @@ Projects:
     git-path: 9.6/
     target-file: Dockerfile
     desired-tag: 9.6
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -43,7 +43,7 @@ Projects:
     git-path: 9.5/
     target-file: Dockerfile
     desired-tag: 9.5
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -55,6 +55,6 @@ Projects:
     git-path: 9.4/
     target-file: Dockerfile
     desired-tag: 9.4
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest

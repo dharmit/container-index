@@ -7,7 +7,7 @@ Projects:
     git-path: /Dockerfiles/ccp-openshift-scan/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shaikhnavid14@gmail.com
+    notify-email: shahdharmit@gmail.com
     depends-on: centos/centos:latest
     build-context: ./
 
@@ -19,7 +19,7 @@ Projects:
     git-path: /Dockerfiles/ccp-api-server/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shaikhnavid14@gmail.com
+    notify-email: shahdharmit@gmail.com
     depends-on: centos/centos:latest
     build-context: ../../
 
@@ -31,6 +31,6 @@ Projects:
     git-path: /Dockerfiles/ccp-openshift-slave/
     target-file: Dockerfile
     desired-tag: new-scanners
-    notify-email: shaikhnavid14@gmail.com
+    notify-email: shahdharmit@gmail.com
     depends-on: openshift/jenkins-slave-base-centos7:latest
     build-context: ../../

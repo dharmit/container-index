@@ -7,6 +7,6 @@ Projects:
     git-branch  : apb
     git-path    : linux/preview/CentOS
     target-file : Dockerfile
-    notify-email: aos-aie@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on  : centos/centos:7

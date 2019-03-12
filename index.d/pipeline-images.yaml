@@ -7,7 +7,7 @@ Projects:
     git-path: /Dockerfiles/ccp-openshift-slave
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: container-status-report@centos.org
+    notify-email: shahdharmit@gmail.com
     depends-on: openshift/jenkins-slave-base-centos7:latest
     build-context: ../../
 
@@ -19,7 +19,7 @@ Projects:
     git-path: /Dockerfiles/ccp-api-server/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: container-status-report@centos.org
+    notify-email: shahdharmit@gmail.com
     depends-on: centos/centos:latest
     build-context: ../../
 
@@ -44,7 +44,7 @@ Projects:
     git-branch: v2
     target-file: Dockerfile.centos7
     desired-tag: v2
-    notify-email: bamachrn@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -57,7 +57,7 @@ Projects:
     target-file: Dockerfile
     desired-tag: latest
     build-context: ./
-    notify-email: shaikhnavid14@gmail.com
+    notify-email: shahdharmit@gmail.com
     depends-on: centos/centos:latest
     build_context: ./
 
@@ -69,7 +69,7 @@ Projects:
     git-path: server
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: bamachrn@gmail.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 

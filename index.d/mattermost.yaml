@@ -10,7 +10,7 @@ Projects:
     git-path: 4.6/
     target-file: Dockerfile
     desired-tag: 4.6
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -22,7 +22,7 @@ Projects:
     git-path: 4.7/
     target-file: Dockerfile
     desired-tag: 4.7.1
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -34,7 +34,7 @@ Projects:
     git-path: 4.8/
     target-file: Dockerfile
     desired-tag: 4.8
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -46,7 +46,7 @@ Projects:
     git-path: 4.8-PCP/
     target-file: Dockerfile
     desired-tag: 4.8-PCP
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -58,7 +58,7 @@ Projects:
     git-path: 4.9-PCP/
     target-file: Dockerfile
     desired-tag: 4.9-PCP
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -70,7 +70,7 @@ Projects:
     git-path: 4.10-PCP/
     target-file: Dockerfile
     desired-tag: 4.10-PCP
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -82,7 +82,7 @@ Projects:
     git-path: 5.0-PCP/
     target-file: Dockerfile
     desired-tag: 5.0-PCP
-    notify-email: akonarde@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -94,7 +94,7 @@ Projects:
     git-path: 5.1-PCP/
     target-file: Dockerfile
     desired-tag: 5.1-PCP
-    notify-email: akonarde@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
     
@@ -106,7 +106,7 @@ Projects:
     git-path: 5.2-PCP/
     target-file: Dockerfile
     desired-tag: 5.2-PCP
-    notify-email: akonarde@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -118,7 +118,7 @@ Projects:
     git-path: 5.3-PCP/
     target-file: Dockerfile
     desired-tag: 5.3-PCP
-    notify-email: akonarde@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -130,7 +130,7 @@ Projects:
     git-path: 5.4-PCP/
     target-file: Dockerfile
     desired-tag: 5.4-PCP
-    notify-email: akonarde@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -143,7 +143,7 @@ Projects:
     git-path: 1.9.0/
     target-file: Dockerfile
     desired-tag: 1.9.0
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -155,7 +155,7 @@ Projects:
     git-path: 1.10.1/
     target-file: Dockerfile
     desired-tag: 1.10.1
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -167,7 +167,7 @@ Projects:
     git-path: 1.11.0/
     target-file: Dockerfile
     desired-tag: 1.11.0
-    notify-email: akonarde@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -179,7 +179,7 @@ Projects:
     git-path: 1.11.2/
     target-file: Dockerfile
     desired-tag: 1.11.2
-    notify-email: akonarde@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -193,7 +193,7 @@ Projects:
     git-path: 3.10.0/
     target-file: Dockerfile
     desired-tag: 3.10.0
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
     
@@ -205,7 +205,7 @@ Projects:
     git-path: 4.4/
     target-file: Dockerfile
     desired-tag: 4.4
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -220,7 +220,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: 4a61a48
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -233,7 +233,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
     
@@ -246,7 +246,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: 8e189eb
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -259,7 +259,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: 92394f2
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -274,7 +274,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -287,7 +287,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     build-context: ./
     depends-on: kbsingh/openshift-nginx:latest
 
@@ -301,5 +301,5 @@ Projects:
     target-file: Dockerfile
     build-context: ./
     desired-tag: latest
-    notify-email: sgk@redhat.com
+    notify-email: shahdharmit@gmail.com
     depends-on: sclo/nodejs-6-centos7:latest
